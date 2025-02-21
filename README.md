@@ -8,3 +8,5 @@ Full docs with examples: https://fancyapps.com/
 ## License
 
 This is commercial software. See [LICENSE.md](LICENSE.md) for more info.
+
+放到自己的仓库里，调用起来方便一些。
